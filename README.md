@@ -13,6 +13,6 @@ For the Banker's algorithm to work, it needs to know three things:
 Resources may be allocated to a process only if the amount of resources requested is less than or equal to the amount available; otherwise, the process waits until resources are available.
 
 
-
-
-
+Currently There are 2 ways that I know to Implement Bankers Algorithm
+1) Python ( Using Numpy Library)
+2) C language code ( Simple but lengthy)
