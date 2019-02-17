@@ -3,7 +3,7 @@
 import numpy as np # to run this program make sure you have numpy library. To install numpy (on terminal) : pip install numpy
 
 n_process = int(input('Number of Processes > '))
-n_resources = int(input('Number of Resources'))
+n_resources = int(input('Number of Resources > '))
 
 available_resources = [int(x) for x in input('Claim vector? ').split(' ')]
 
